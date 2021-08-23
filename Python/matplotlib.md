@@ -44,5 +44,9 @@ plt.show()
 
 <img src="https://i.loli.net/2021/08/17/ZES7oR1H42kVwJY.png" alt="WX20210817-203748@2x.png" style="zoom:50%;" />
 
+```
+plt.(clf) #clf清空上一个表？
+```
+
 
 
